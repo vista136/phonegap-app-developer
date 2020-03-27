@@ -12,6 +12,7 @@
     <hook src="resources/script/copy-android-push-icon.js" type="before_build" />
     <hook src="resources/script/add-version.js" type="before_build" />
     <hook src="resources/script/remove-version.js" type="after_compile" />
+    <preference name="phonegap-version" value="cli-7.1.0" />
     <preference name="StatusBarStyle" value="default" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="DisallowOverscroll" value="true" />
